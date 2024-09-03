@@ -1,1 +1,8 @@
 venv/
+venv/
+*.pyd
+*.lib
+*.dll
+*.pyd
+*.lib
+*.dll
