@@ -58,7 +58,7 @@ const ChatbotApp = () => {
   return (
     <div className="chat-container">
       <header className="chat-header">
-        <h1>Nasty AI</h1>
+        <h1>Chatbot AI</h1>
       </header>
       <main className="chat-main">
         {messages.length === 0 ? (
