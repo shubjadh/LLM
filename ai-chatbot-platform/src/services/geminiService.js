@@ -12,7 +12,7 @@ class GeminiService {
 
   async generateResponse(message) {
     console.log('GeminiService: Generating response for message:', message);
-    const model = this.genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
     
     try {
       console.log('Calling Gemini API...');
