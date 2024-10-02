@@ -38,5 +38,3 @@ This project is an AI-powered chatbot platform using Gemini AI, Node.js, and Mon
 ## Future Improvements
 
 - Add user authentication
-- Implement real-time chat using WebSockets
-- Enhance error handling and input validation
